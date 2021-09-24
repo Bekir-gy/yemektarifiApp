@@ -13,3 +13,5 @@
 .externalNativeBuild
 .cxx
 local.properties
+app/* linguist-documentation=false
+app/* linguist-vendored
